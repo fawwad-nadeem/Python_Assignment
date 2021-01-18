@@ -1,0 +1,18 @@
+import cv2
+import turtle
+faw_turtle=turtle.Turtle()
+faw_turtle.forward(100)
+faw_turtle.right(90)
+faw_turtle.forward(100)
+faw_turtle.right(90)
+faw_turtle.forward(100)
+faw_turtle.right(90)
+faw_turtle.forward(100)
+faw_turtle.right(90)
+faw_turtle.backward(100)
+faw_turtle.right(90)
+faw_turtle.forward(100)
+faw_turtle.right(90)
+faw_turtle.forward(100)
+faw_turtle.right(90)
+cv2.waitKey(100000)
